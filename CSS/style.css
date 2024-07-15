@@ -1,0 +1,44 @@
+body { 
+    color:brown;
+    background-color: #7ac5f0;
+    font-family: 'Courier New', Courier, monospace;   
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30 px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    dispay: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+.my_photo {
+    background: url(../images/Ivan.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 300px;
+    height: 297px;
+}
+.nav_logo {
+    background: url(../images/block.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 60px;
+    height: 60px;
+}
